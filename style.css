@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+  outline: none;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+}
+
+#container {
+  width: 100vw;
+  min-height: 100vh;
+}
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+#vGesture-video {
+  width: 100vw !important;
+  height: 100vh !important;
+}
